@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\BigInt\BigInt\Source.cpp(8,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BigInt\BigInt\Source.cpp(10,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BigInt\BigInt\Source.cpp(11,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BigInt\BigInt\Source.cpp(12,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BigInt\BigInt\Source.cpp(89,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BigInt.vcxproj -> D:\BigInt\x64\Debug\BigInt.exe
